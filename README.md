@@ -1,7 +1,14 @@
-### Hi, I'm Patthapol 👋
+# Hi, I'm Patthapol 👋
 
 - 📚 I'm currently studying Computer Engineering at Chulalongkorn University.
-- 💻 I'm interested in Front-end Web Development and Data Science.
+- 💻 I'm interested in Software Engineering and enjoyed learning something new.
+
+## 🌐 Connect with Me
+
+- LinkedIn: [patthapolk](https://www.linkedin.com/in/patthapolk/)
+- Personal Website: [patthapolkit.github.io](https://patthapolkit.github.io)
+
+📬 Feel free to reach out for collaboration or just to chat about tech!
 
 <!--
 **patthapolkit/patthapolkit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
